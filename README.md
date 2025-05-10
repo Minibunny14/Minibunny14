@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Minibunny14
+# 👋 Hi, I’m Sachram (aka Minibunny)
 
 Welcome to my GitHub! I'm an engineering student passionate about embedded systems, automation, space exploration, and creative software development.
 
