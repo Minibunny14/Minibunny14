@@ -35,6 +35,9 @@ Welcome to my GitHub! I'm an engineering student passionate about embedded syste
   
   AgroMatic is a decentralized smart irrigation system using ESP32 modules with ESP-NOW communication. Each battery-powered slave node autonomously controls watering based on soil moisture, while a master hub aggregates data for cloud monitoring. The system cuts water waste by 30% and scales effortlessly across farms without WiFi dependency.
 
+- **🤖 [Repository Of Knowledge STM32](https://github.com/Minibunny14/Repository_Of_Knowledge-STM32-)**
+  
+  This STM32 knowledge repository provides a comprehensive overview of STM32 microcontrollers, focusing on their ARM Cortex-M architecture, built-in peripherals, and development tools like STM32CubeIDE and STM32CubeMX.
 ---
 
 ## 💞️ I’m looking to collaborate on:
