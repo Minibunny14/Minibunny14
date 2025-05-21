@@ -40,7 +40,6 @@ Welcome to my GitHub! I'm an engineering student passionate about embedded syste
 ## 💞️ I’m looking to collaborate on:
 - Embedded systems for smart homes, wearables, or space habitats  
 - Open-source automation tools or simulations  
-- Java-based interactive applications and games  
 - Real-world sensor integration and alert systems  
 
 ---
