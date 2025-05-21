@@ -47,7 +47,7 @@ Welcome to my GitHub! I'm an engineering student passionate about embedded syste
 
 ## 📫 How to reach me:
 - 📧 [don70570@gmail.com]
-- 🌐 [[Add your LinkedIn or personal site if you want to share](https://www.linkedin.com/in/sachram-singh-0419a728a/)]
+- 🌐 [[linkdin](https://www.linkedin.com/in/sachram-singh-0419a728a/)]
 
 ---
 
